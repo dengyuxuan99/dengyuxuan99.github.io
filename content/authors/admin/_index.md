@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 邓宇萱
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yu Hsuan Teng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yuxuan
+last_name: Deng
 
 # Status emoji
 status:
